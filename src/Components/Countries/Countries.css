@@ -2,3 +2,9 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
+.flag-container img {
+  width: 150px;
+  height: 100px;
+  margin-right: 10px;
+  box-shadow: 1px 2px 4px rgba(144, 100, 244, 0.4);
+}

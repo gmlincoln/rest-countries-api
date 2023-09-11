@@ -11,3 +11,10 @@
   border: 1px solid rgba(144, 110, 210, 0.4);
   box-shadow: 1px 2px 4px gray;
 }
+.country button {
+  border: 1px solid gray;
+  margin-right: 10px;
+}
+.visited {
+  background-color: bisque;
+}
