@@ -1,0 +1,13 @@
+.country {
+  border: 2px solid lightsteelblue;
+  margin: 15px;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+}
+.country img {
+  height: 205px;
+  width: 308px;
+  border: 1px solid rgba(144, 110, 210, 0.4);
+  box-shadow: 1px 2px 4px gray;
+}
